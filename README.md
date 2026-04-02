@@ -38,7 +38,6 @@ Content is grouped by **category** (all Markdown), **A–Z** by folder name:
 
 | Folder | Contents |
 |--------|----------|
-| `ammo/` | Ammunition (reserved for future entries). |
 | `armor/` | Armor by **slot** (head, body, shield, head-and-body, assisted combat)—each baseline line has **Marks I–III** where statted (e.g. panoptic rim-helm, laminar-weave overcoat, ballistic locker shield, NBC soft-shell, load-bearing exo-assist). |
 | `clothing/` | Clothing (reserved for future entries). |
 | `cyberwear/` | Cyberware—implants that interface with Old World gear (charge tethers, cranial dock, etc.). |
