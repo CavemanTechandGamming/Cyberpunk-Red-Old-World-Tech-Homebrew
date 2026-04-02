@@ -17,7 +17,9 @@ Still not a smart shield: no active countermeasures, no drone mesh—mass and an
 
 **Appearance:** The face shows a tighter pebble texture and fewer voids at the edge—impacts abrade in cleaner rings. The fold seam aligns flush when closed; pins are stainless or black oxide on better lots. Handle rubber feels newer, less gummy. The strap may use quick-dry weave in slate or black. Folded, the profile is slightly thicker than Mark I—more material in the same briefcase silhouette.
 
-**Cost:** 1,250 eb (homebrew; mid-game tier—aligned with **Mark II** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price—**Mark II** is **mid-game** refinement in this line; calibrate to your table.
+
+**Suggested price:** 1,250 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

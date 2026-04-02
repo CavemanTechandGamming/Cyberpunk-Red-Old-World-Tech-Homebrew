@@ -10,44 +10,17 @@ It is the same Old World chassis fantasy—**one wheel, open deck, courier blood
 
 **Appearance:** The ring wears **cleaner fairing segments**—often mismatched—where someone replaced impact crushes. The deck spine is **re-machined** or laminated with newer alloy strips, edges deburred, tie-down slots **not** chewed to razors. The HUD puck may be swapped for a **brighter aftermarket face** with lean heat-map and cell health bars. It still looks like **salvage**, but salvage someone **loved** for a weekend.
 
-**Cost:** 1,250 eb (homebrew; mid-game tier)
+**Cost:** **GM / table.** **Mark II** sits where **mid-tier personal transport** belongs in *your* economy—compare to bikes, beater cars, and other vehicles at the table, not to armor or glasses marks by default.
+**Suggested price:** 1,000 eb — *baseline for balance; change freely to fit your campaign.*
 
 **Structural damage points:** 34
 
 **Seats:** 1
 
-**Rooms:** 0
+**Rooms:** 1
 
-**Speed:** 7
+**Speed:** 36
 
 ## Available upgrades
 
-Use **only** official **Cyberpunk RED** vehicle upgrades from the rulebooks your table uses (for example *Black Chrome*). Do **not** add homebrew upgrade names—pick from the published list, pay costs, and apply rules as written. The GM decides which upgrades fit this **small ground** chassis.
-
-Official vehicle upgrades include:
-
-- **Aerozep Selfsealing Gasbag**
-- **Armored Chassis**
-- **AV-4 Engine Upgrade**
-- **Bulletproof Glass**
-- **Combat Plow**
-- **Communications Centre**
-- **Deployable Spike Strip**
-- **Enhanced Interface Plug Integration**
-- **Hangar**
-- **Heavy Chassis**
-- **Housing Upgrade**
-- **Hover Upgrade**
-- **NOS**
-- **Onboard Flamethrower**
-- **Onboard Machine Gun**
-- **Onboard Melee Weapon**
-- **Onboard Rocket Pod**
-- **Reinforced Hull/Tires**
-- **Sealed Environment**
-- **Seating Upgrade**
-- **Security Upgrade**
-- **Smuggling Upgrade**
-- **Submersible Upgrade**
-- **Titanic Hull**
-- **Vehicle Heavy Weapon Mount**
+**Available upgrades** are not fixed in this homebrew sheet. Use whatever vehicle upgrades your **GM**, **campaign**, and **official tools** (such as **Cyberpunk RED Companion**) make available for this type of chassis, and apply **costs and rules as written** when you install them. The fiction here describes the base platform; the upgrade menu is whatever your table agrees is legitimate.

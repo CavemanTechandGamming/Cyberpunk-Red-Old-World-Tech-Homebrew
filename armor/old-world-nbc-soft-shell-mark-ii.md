@@ -17,7 +17,9 @@ Legs remain outside the shell; optional lots include matching gloves.
 
 **Appearance:** Cleaner agency colors—slate, safety-yellow trim, reflective chevrons that still catch headlights. The hood sits closer to the skull; the wire brim is less prone to kink. Visor anti-fog lasts longer on stored units; scratches show rainbow oil sheen under light. Torso panels feel denser—less flap in the wind. Twist-lock cuffs sometimes ship with matching gloves in the same lot.
 
-**Cost:** 1,250 eb (homebrew; mid-game tier—aligned with **Mark II** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price—**Mark II** is **mid-game** refinement in this line; calibrate to your table.
+
+**Suggested price:** 1,250 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

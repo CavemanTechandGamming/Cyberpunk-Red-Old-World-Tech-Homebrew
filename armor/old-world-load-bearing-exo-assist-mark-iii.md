@@ -17,7 +17,9 @@ Armor penalty drops versus earlier marks because materials and tuning do the wor
 
 **Appearance:** Satin industrial finish—graphite, titanium grey, black oxide hardware. The spine bar may carry an etched unit sigil burned in to prevent theft—often defaced anyway. The power pack is a low-profile brick with braided cable exit; charge port covers snap flush. Shoulder rings hide cable runs under collar fairings; hips sit closer to the body with less lateral bulge. Sound under load: a tight whine, not a grind.
 
-**Cost:** 3,000 eb (homebrew; late-game / legendary tier—aligned with **Mark III** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price—**Mark III** is **late-game / legendary** tier in this line; calibrate to your table.
+
+**Suggested price:** 3,000 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

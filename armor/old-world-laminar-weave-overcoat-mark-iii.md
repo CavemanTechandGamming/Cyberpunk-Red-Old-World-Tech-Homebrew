@@ -17,7 +17,9 @@ Cold spots are **almost gone** if the coat has been **serviced**; overlock is a 
 
 **Appearance:** The **same long-cut profile**, but the weave has a **subtle sheen** when idle—**oil-on-water** at the ribs when light slides across it. Colors trend **deeper**: **black-blue**, **graphite**, **forest so dark it reads black** indoors. Seams are **nearly invisible**; the collar **stands** with a **stiffer hidden spine** that still folds for storage. Cuffs may show a **hairline** conductive trim (grounding, old spec) that **glows faint amber** only when the weave **arms**—a tell that gets people **shot** for their coat. Weight is **distributed** lower than Mark I; the coat **moves** with less **sway** at speed. Battle-worn Mark IIIs sometimes show **no whitening** at the elbows—the fibers **self-mask** scuffs until they **fail** all at once.
 
-**Cost:** 3,000 eb (homebrew; late-game / legendary tier—aligned with **Mark III** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price—**Mark III** is **late-game / legendary** tier in this line; calibrate to your table.
+
+**Suggested price:** 3,000 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

@@ -4,7 +4,8 @@
 
 **Type:** Cyberware (implant)  
 **Install:** Clinic or better (mastoid / temporal hardware; not street chop)  
-**Cost:** 500 eb (homebrew; adjust to your campaign economy)  
+**Cost:** **GM / table.** Set **eurodollars** to your economy and how this pairs with the glasses line.  
+**Suggested price:** 500 eb — *baseline for balance; change freely to fit your campaign.*
 **Humanity Cost:** 3 (or 1d6/3 rounded up if installed after character creation—GM choice)
 
 ## Description

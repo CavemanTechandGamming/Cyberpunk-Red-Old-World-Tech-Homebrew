@@ -14,7 +14,8 @@ Power is another limitation: the Mark I runs on aging Old World cells. **Plan on
 
 Highly valued by Edgerunners who want capability without chrome, and hunted by those who recognize their origin.
 
-**Cost:** 550 eb (homebrew; early-game tier)
+**Cost:** **GM / table.** **Mark I** is **early-game** in this line; set **eurodollars** to your economy (not fixed here).
+**Suggested price:** 550 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom Modifiers
 

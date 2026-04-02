@@ -14,7 +14,8 @@ You still are not getting full cybereyes—but docked Mark III is the closest th
 
 Highly valued, absurdly rare, and a good way to get disappeared if the wrong corp notices you wearing them.
 
-**Cost:** 3,000 eb (homebrew; late-game / legendary tier—**does not** include the dock implant)
+**Cost:** **GM / table.** **Mark III** is **late-game / legendary** in this line; set **eurodollars** to your economy. Covers the glasses **only**—the cranial dock is priced separately in `cyberwear/`.
+**Suggested price:** 3,000 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom Modifiers
 

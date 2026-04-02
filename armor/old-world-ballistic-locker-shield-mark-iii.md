@@ -17,7 +17,9 @@ Still not networked—no corporate cloud handshake. What you get is materials sc
 
 **Appearance:** Gunmetal face with almost no surface porosity—hits glaze white feathering instead of deep gouges until the gel saturates. The fold seam vanishes when closed; locking pins retract flush. The handle is overmolded alloy with drain channels; the strap uses mil tan or wolf grey that still holds dye. Open, the shield reads slightly wider than Mark I—more coverage without the weight of a wall.
 
-**Cost:** 3,000 eb (homebrew; late-game / legendary tier—aligned with **Mark III** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price—**Mark III** is **late-game / legendary** tier in this line; calibrate to your table.
+
+**Suggested price:** 3,000 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

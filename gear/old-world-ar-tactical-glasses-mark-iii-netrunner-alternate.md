@@ -12,7 +12,8 @@ These frames are **gutted for dock-only operation**: internal cells **removed**,
 
 Highly valued, absurdly rare, and dangerous to own.
 
-**Cost:** 3,000 eb (homebrew; late-game / legendary tier—**does not** include the dock implant)
+**Cost:** **GM / table.** **Mark III** is **late-game / legendary** in this line; set **eurodollars** to your economy. Covers the glasses **only**—the cranial dock is priced separately in `cyberwear/`.
+**Suggested price:** 3,000 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom Modifiers
 

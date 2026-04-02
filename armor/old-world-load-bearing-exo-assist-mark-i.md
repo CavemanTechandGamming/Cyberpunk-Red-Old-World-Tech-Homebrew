@@ -17,7 +17,9 @@ Salvage means **missed calibrations**: a **lagging hip** makes you **list**; a *
 
 **Appearance:** **Matte industrial** **struts** in **gunmetal** or **battleship grey**—**painted** **codes** **stenciled** on the **spine bar** (**unit**, **lot**, **recall** arrows **scratched** out). **Shoulder rings** **clamp** with **padded** **collars** that **bulk** the **silhouette**; **hip** **actuators** **stick out** slightly—**first thing** that **catches** **doorframes**. **Power pack** rides **small of back** or **kidney**—**cables** **snake** **under** **jacket** if you **hide** it. **LED** **charge** **strip** **flickers** **green** **amber** **red** **when** **honest**; **dead** packs **look** like **lunchboxes**. **Sound**: **faint whine** on **hard** **move**, **click** when **servos** **park**.
 
-**Cost:** 550 eb (homebrew; early-game tier—aligned with **Mark I** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price in this document—**Mark I** is **early-game** salvage in this line. Set cost to your campaign economy and how this compares to official gear and **Companion** benchmarks.
+
+**Suggested price:** 550 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

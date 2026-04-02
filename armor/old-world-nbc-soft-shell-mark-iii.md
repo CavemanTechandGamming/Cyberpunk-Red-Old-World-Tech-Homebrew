@@ -17,7 +17,9 @@ Cartridges remain scarce; empty ports whistle in the wind. Legs are still separa
 
 **Appearance:** Muted tactical tones—graphite, olive-black, dust grey—with minimal branding visible. Visor panes can be dual-curve with anti-scratch hardcoat that still works. Hood lines read military clean; zipper garages hide pulls from snag. Seams tape flat; shoulders carry MOLLE-adjacent loops for old spec kits. When gloves are included, they match lot color exactly—no aftermarket mismatch on factory pairs.
 
-**Cost:** 3,000 eb (homebrew; late-game / legendary tier—aligned with **Mark III** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price—**Mark III** is **late-game / legendary** tier in this line; calibrate to your table.
+
+**Suggested price:** 3,000 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

@@ -16,7 +16,8 @@ Power is easier to live with than on Mark I: **plan on recharging about every tw
 
 Highly valued by Edgerunners who want capability without chrome, and hunted by those who recognize their origin.
 
-**Cost:** 1,250 eb (homebrew; mid-game tier)
+**Cost:** **GM / table.** **Mark II** is **mid-game** in this line; set **eurodollars** to your economy.
+**Suggested price:** 1,250 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom Modifiers
 

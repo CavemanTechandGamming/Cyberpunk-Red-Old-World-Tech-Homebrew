@@ -17,7 +17,9 @@ Salvage suits often **lost** their **certified filter cartridges**—replaced wi
 
 **Appearance:** **Waxy grey, mustard, or dull orange** depending on **agency** paint; **faded stencils** read **BIOHAZARD** or **EVAC ROUTE** in **fonts** that **look** official until you **read** the **typos** from **post-Collapse** stencil jobs. **Hood** **balloons** slightly—**wire** in the **brim** keeps the **visor** **out** from your nose. **Visor** is **wide**, **single pane**, **anti-fog** coating **gone** in **streaks**. **Torso** **wrinkles** like a **raincoat** but **thicker**; **seams** run **under the arms** and **down the spine**. **Gloves** **attach** at **cuff** with **twist-lock** rings—**often missing**. **Boots** **not included**—**elastic** at the **ankle** **rides** over **street shoes**.
 
-**Cost:** 550 eb (homebrew; early-game tier—aligned with **Mark I** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price in this document—**Mark I** is **early-game** salvage in this line. Set cost to your campaign economy and how this compares to official gear and **Companion** benchmarks.
+
+**Suggested price:** 550 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

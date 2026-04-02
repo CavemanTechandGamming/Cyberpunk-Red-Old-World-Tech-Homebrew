@@ -19,7 +19,9 @@ This is **not** powered hardshell. It does not run an Agent. It is armor you **w
 
 **Appearance:** A **long, heavy coat** that reads as upscale street or corporate travel—**matte charcoal, deep navy, or faded olive** depending on what batch left the vault. The weave has a **faint rib** in the light when it catches; seams run **vertical along the torso** and **along the outer arms** where the panels join. Collar stands **tall enough** to bury the chin; cuffs are **wide**, sized to clear gloves or light cyber-hands. Hardware is **minimal**—magnetic snaps and low-profile zippers, no obvious Militech badges left intact. Weight sits **shoulders and upper back**; when the weave **snaps** on impact, the fabric goes **rigid along those ribs** for a heartbeat, then relaxes. Worn and dirty examples show **whitening at the elbows** and **frayed hems**; well-kept coats still **drape** like expensive weatherwear until the first hit.
 
-**Cost:** 550 eb (homebrew; early-game tier—aligned with **Mark I** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price in this document—**Mark I** is **early-game** salvage in this line. Set cost to your campaign economy and how this compares to official gear and **Companion** benchmarks.
+
+**Suggested price:** 550 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

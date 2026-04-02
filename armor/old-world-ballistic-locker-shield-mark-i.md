@@ -17,7 +17,9 @@ The **face** ablates in **concentric rings** where rounds kissed it; deep gouges
 
 **Appearance:** **Flat charcoal** or **gunmetal** face with a **fine pebble texture**—chips show **lighter composite** underneath. **Edge** is **beveled**; **corners** are **rounded** so vault runners did not snag walls. **Fold seam** runs **vertical down the center** like a **closet door**; **locking pins** show as **bright steel** pips when oiled, **rust** when not. **Handle** is **rubber over alloy**, **molded** for a **forearm strap** and **quick-release**. **Strap** is **nylon** with **corporate color** faded to **muddy brown**. Carried folded, it looks like a **thin briefcase**; open, it **covers** from **thigh to brow** on most humans.
 
-**Cost:** 550 eb (homebrew; early-game tier—aligned with **Mark I** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price in this document—**Mark I** is **early-game** salvage in this line. Set cost to your campaign economy and how this compares to official gear and **Companion** benchmarks.
+
+**Suggested price:** 550 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

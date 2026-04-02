@@ -17,7 +17,9 @@ Salvage units lose **calibration**: the rim sometimes **ghosts** reticles or ran
 
 **Appearance:** **Matte urban grey, black, or desaturated OD** paint—chipped at the brim where people used to grab each other in crowds. The **face shield** is a **single curved pane** (scratches star out from impacts) or a **split jaw** design on older lots. **HUD rim** glows **faint cyan or amber** when power still hits it from a **coin cell** or **Agent tap**; dead rims look like **dull plastic jewelry**. **Chin strap** is **wide nylon** with **magnetic buckle**; **pads** inside are **sweat-stained** and sometimes **mold** if the foam rotted. **Vent holes** along the crown look like **stylized vents** until you realize they are **speaker grilles** for old riot protocols. A **stencil serial** often survives under the ear—enough to trace a **dead corp**.
 
-**Cost:** 550 eb (homebrew; early-game tier—aligned with **Mark I** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price in this document—**Mark I** is **early-game** salvage in this line. Set cost to your campaign economy and how this compares to official gear and **Companion** benchmarks.
+
+**Suggested price:** 550 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

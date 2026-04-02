@@ -17,7 +17,9 @@ Still an open frame—no sealed cockpit. Mount points may free up with solvent a
 
 **Appearance:** Struts show anodized edges—gunmetal with blue or violet sheen at angles. Spine codes include a Mark II glyph or dash-two stamp. Power pack housing is ribbed for cooling; the LED strip reads in cleaner steps. Shoulder pads are slightly slimmer—less snag on doorframes than Mark I.
 
-**Cost:** 1,250 eb (homebrew; mid-game tier—aligned with **Mark II** pricing in this homebrew line)
+**Cost:** **GM / table.** No fixed **eurodollar** price—**Mark II** is **mid-game** refinement in this line; calibrate to your table.
+
+**Suggested price:** 1,250 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom modifiers
 

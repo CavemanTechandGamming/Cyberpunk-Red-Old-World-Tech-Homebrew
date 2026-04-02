@@ -10,44 +10,17 @@ You do not “drive” it like a car; you **balance** it. Lean forward to load t
 
 **Appearance:** A **broad ring** dominates the silhouette—scuffed composite or oxidized alloy—with a **narrow standing deck** bolted across the hub line. The rider’s pad is worn leather or cracked foam over a **spine rail** punched for straps. Control is **bars or side stalks** (your table’s flavor) wired into a **weather-cracked HUD puck** that still shows speed, lean, and battery paranoia. Paint is faded corporate livery or none; every unit looks like it survived a war because it did.
 
-**Cost:** 550 eb (homebrew; early-game tier)
+**Cost:** **GM / table.** Salvage **Mark I** boards are often only a **modest** step up from very cheap wheels (many tables will land **above a bicycle**, still in “affordable courier junk” territory if you want)—but **fiction, condition, and city** swing the number enormously. **Do not** assume the same **eurodollar** ladder as wearable **Mark I** gear unless you choose to.
+**Suggested price:** 300 eb — *baseline for balance; change freely to fit your campaign.*
 
 **Structural damage points:** 26
 
 **Seats:** 1
 
-**Rooms:** 0
+**Rooms:** 1
 
-**Speed:** 5
+**Speed:** 24
 
 ## Available upgrades
 
-Use **only** official **Cyberpunk RED** vehicle upgrades from the rulebooks your table uses (for example *Black Chrome*). Do **not** add homebrew upgrade names—pick from the published list, pay costs, and apply rules as written. The GM decides which upgrades fit this **small ground** chassis.
-
-Official vehicle upgrades include:
-
-- **Aerozep Selfsealing Gasbag**
-- **Armored Chassis**
-- **AV-4 Engine Upgrade**
-- **Bulletproof Glass**
-- **Combat Plow**
-- **Communications Centre**
-- **Deployable Spike Strip**
-- **Enhanced Interface Plug Integration**
-- **Hangar**
-- **Heavy Chassis**
-- **Housing Upgrade**
-- **Hover Upgrade**
-- **NOS**
-- **Onboard Flamethrower**
-- **Onboard Machine Gun**
-- **Onboard Melee Weapon**
-- **Onboard Rocket Pod**
-- **Reinforced Hull/Tires**
-- **Sealed Environment**
-- **Seating Upgrade**
-- **Security Upgrade**
-- **Smuggling Upgrade**
-- **Submersible Upgrade**
-- **Titanic Hull**
-- **Vehicle Heavy Weapon Mount**
+**Available upgrades** are not fixed in this homebrew sheet. Use whatever vehicle upgrades your **GM**, **campaign**, and **official tools** (such as **Cyberpunk RED Companion**) make available for this type of chassis, and apply **costs and rules as written** when you install them. The fiction here describes the base platform; the upgrade menu is whatever your table agrees is legitimate.

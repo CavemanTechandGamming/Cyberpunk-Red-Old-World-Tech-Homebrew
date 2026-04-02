@@ -2,7 +2,7 @@
 
 **Short description:** Mark II pre-Collapse AR glasses—mid-tier Old World gear that fully replace a separate Agent and still only **lightly** substitute for cyberoptics, with better cells and a snappier HUD than Mark I.
 
-This is the **baseline Mark II** firmware and sensor pack. Role-specific variants tune the overlays and analytics without changing the overall power level. In this homebrew line, **price steps up by mark:** Mark I is **early game**, **Mark II** is **mid game**, and **Mark III** is **late game / legendary** (see Mark III files + `cyberwear/old-world-cranial-ar-dock-mark-iii.md`).
+This is the **baseline Mark II** firmware and sensor pack. Role-specific variants tune the overlays and analytics without changing the overall power level. In this homebrew line, **marks** describe **power and fiction**, not fixed **eurodollar** prices—**Mark I** is **early game**, **Mark II** is **mid game**, and **Mark III** is **late game / legendary** (see Mark III files + `cyberwear/old-world-cranial-ar-dock-mark-iii.md`).
 
 ## Description
 
@@ -16,7 +16,8 @@ Power is easier to live with than on Mark I: stabilized cell packs and better th
 
 Highly valued by Edgerunners who want capability without chrome, and hunted by those who recognize their origin.
 
-**Cost:** 1,250 eb (homebrew; mid-game tier)
+**Cost:** **GM / table.** **Mark II** is **mid-game** in this line; set **eurodollars** to your economy.
+**Suggested price:** 1,250 eb — *baseline for balance; change freely to fit your campaign.*
 
 ## Custom Modifiers
 
