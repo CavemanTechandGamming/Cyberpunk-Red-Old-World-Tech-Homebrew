@@ -42,7 +42,7 @@ Content is grouped by **category** (all Markdown), **A–Z** by folder name:
 | `clothing/` | Clothing (reserved for future entries). |
 | `cyberwear/` | Cyberware—implants that interface with Old World gear (charge tethers, cranial dock, etc.). |
 | `gear/` | General equipment, including the **Old World AR tactical glasses** line (Marks I–III, role variants, alternates). |
-| `vehicles/` | Vehicles (reserved for future entries). |
+| `vehicles/` | Vehicles—e.g. **Old World monowheel carrier board** (Marks I–III). |
 | `weapons/` | Weapons (reserved for future entries). |
 
 ---
