@@ -30,7 +30,7 @@ Across the items statted here, **marks** are a shorthand for **how far** the com
 
 **Companion tech** (charge tethers, docks) exists so the fiction stays grounded: you can **ease bookkeeping** or **unlock** the top tier without pretending a pair of lenses runs forever on vibes alone.
 
-**Costs:** Item write-ups use **GM / table** guidance first, then a **Suggested price** in **eurodollars** as a **balance baseline** (easy to change). **Armor** and **Old World AR glasses** share the same mark-based suggested grid: **550 / 1,250 / 3,000** eb for **Mark I / II / III**. **Vehicles** use their own baselines—for example the **monowheel carrier board** (**300 / 1,000 / 3,500** eb), the **Meridian Lanehart** FWD V6 sedan (**8,000 / 16,000 / 35,000** eb), the **Redline Viceroy** muscle coupe (**9,500 / 19,000 / 42,000** eb), **Bessie** muscle-tuned pickup (**11,000 / 22,000 / 48,000** eb), the **Ironhaul Needle** Class 8 needle-nose tractor (**42,000 / 88,000 / 185,000** eb), and the large **Grindframe Bastion** hauler (**15,000 / 30,000 / 60,000** eb). **Marks** describe **power and fiction**, not a single ladder across categories.
+**Costs:** Item write-ups use **GM / table** guidance first, then a **Suggested price** in **eurodollars** as a **balance baseline** (easy to change). **Armor** and **Old World AR glasses** share the same mark-based suggested grid: **550 / 1,250 / 3,000** eb for **Mark I / II / III**. **Vehicles** use their own baselines—for example the **Pitlane Spanjack** floor jack (**120 / 350 / 900** eb; **Speed** **10**, bicycle-tier), the **monowheel carrier board** (**300 / 1,000 / 3,500** eb), the **Meridian Lanehart** FWD V6 sedan (**8,000 / 16,000 / 35,000** eb), the **Redline Viceroy** muscle coupe (**9,500 / 19,000 / 42,000** eb), **Bessie** muscle-tuned pickup (**11,000 / 22,000 / 48,000** eb), the **Ironhaul Needle** Class 8 needle-nose tractor (**42,000 / 88,000 / 185,000** eb), and the large **Grindframe Bastion** hauler (**15,000 / 30,000 / 60,000** eb). **Marks** describe **power and fiction**, not a single ladder across categories.
 
 ---
 
@@ -44,7 +44,7 @@ Content is grouped by **category** (all Markdown), **A–Z** by folder name:
 | `clothing/` | Clothing (reserved for future entries). |
 | `cyberwear/` | Cyberware—implants that interface with Old World gear (charge tethers, cranial dock, etc.). |
 | `gear/` | General equipment, including the **Old World AR tactical glasses** line (Marks I–III, role variants, alternates). |
-| `vehicles/` | Vehicles—e.g. **Old World monowheel carrier board**, **Meridian Lanehart** FWD sedan, **Bessie** RWD muscle pickup, **Redline Viceroy** RWD muscle coupe, **Ironhaul Needle** Class 8 tractor, and **Grindframe Bastion** full-frame hauler (each Marks I–III where statted). |
+| `vehicles/` | Vehicles—e.g. **Old World Pitlane Spanjack** hydraulic floor jack, **monowheel carrier board**, **Meridian Lanehart** FWD sedan, **Bessie** RWD muscle pickup, **Redline Viceroy** RWD muscle coupe, **Ironhaul Needle** Class 8 tractor, and **Grindframe Bastion** full-frame hauler (each Marks I–III where statted). |
 | `weapons/` | Weapons (reserved for future entries). |
 
 ---
